@@ -33,7 +33,7 @@
         </v-container>
       </v-toolbar-items>
     </v-app-bar>
-    <v-navigation-drawer v-model="drawer" absolute temporary>
+    <v-navigation-drawer v-model="drawer" absolute dark temporary>
       <v-list nav dense>
         <v-list-item-group
           v-model="group"
@@ -140,5 +140,8 @@ export default Vue.extend({
 }
 header {
   z-index: 100000 !important;
+}
+.v-navigation-drawer {
+  z-index: 100001 !important;
 }
 </style>
