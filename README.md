@@ -1,4 +1,4 @@
-# gde_foxhole
+# GDE Foxhole
 
 ## Project setup
 ```
