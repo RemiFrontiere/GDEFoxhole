@@ -51,6 +51,14 @@ export default Vue.extend({
           id: globalFunction.makeId(5),
           title: '0052',
           videos: [
+{ id: globalFunction.makeId(5), i18nTitle: 'Foxhole 1.0 - Beginner's Guide', youtube: 'https://www.youtube.com/watch?v=nAPu0JOcD_A' },
+{ id: globalFunction.makeId(5), i18nTitle: '0036', youtube: 'https://www.youtube.com/watch?v=BXOu73sFKvg&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=1' },
+{ id: globalFunction.makeId(5), i18nTitle: '0036', youtube: 'https://www.youtube.com/watch?v=BXOu73sFKvg&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=1' },
+{ id: globalFunction.makeId(5), i18nTitle: '0036', youtube: 'https://www.youtube.com/watch?v=BXOu73sFKvg&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=1' },
+{ id: globalFunction.makeId(5), i18nTitle: '0036', youtube: 'https://www.youtube.com/watch?v=BXOu73sFKvg&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=1' },
+{ id: globalFunction.makeId(5), i18nTitle: '0036', youtube: 'https://www.youtube.com/watch?v=BXOu73sFKvg&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=1' },
+{ id: globalFunction.makeId(5), i18nTitle: '0036', youtube: 'https://www.youtube.com/watch?v=BXOu73sFKvg&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=1' },
+
             { id: globalFunction.makeId(5), i18nTitle: '0036', youtube: 'https://www.youtube.com/watch?v=BXOu73sFKvg&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=1' },
             { id: globalFunction.makeId(5), i18nTitle: '0037', youtube: 'https://www.youtube.com/watch?v=qPFoBtsktmw&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=2' },
             { id: globalFunction.makeId(5), i18nTitle: '0038', youtube: 'https://www.youtube.com/watch?v=7i2vE72Fv90&list=PL5uBL5gApGWHGJ3OjxqlyzdEPv39O5T0T&index=3' },
